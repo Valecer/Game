@@ -1,0 +1,4 @@
+{
+  "serverPort": 3000,
+  "dbUrl": "mongodb+srv://dbAdmin:dbMark@game.seo4j.mongodb.net/Game?retryWrites=true&w=majority"
+}
