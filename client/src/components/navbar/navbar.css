@@ -67,6 +67,7 @@ a {
     align-items: center;
   }
   .header {
+    height: 270px;
     width: 100%;
     margin: 0 auto;
     max-width: 100%;
@@ -74,6 +75,7 @@ a {
 }
 @media (min-width: 1025px) {
   .header {
+    height: 150px;
     flex-direction: row;
     justify-content: space-between;
   }
